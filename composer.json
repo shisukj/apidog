@@ -13,9 +13,9 @@
   "require": {
     "php": ">=7.3",
     "ext-json": "*",
-    "hyperf/http-server": "~3.0.0",
-    "hyperf/logger": "~3.0.0",
-    "hyperf/validation": "~3.0.0"
+    "hyperf/http-server": "2.2.*",
+    "hyperf/logger": "2.2.*",
+    "hyperf/validation": "2.2.*"
   },
   "autoload": {
     "psr-4": {
